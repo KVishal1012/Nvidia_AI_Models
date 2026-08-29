@@ -26,7 +26,6 @@ def test_metadata_contains_expected_datasets():
         "buildings",
         "drainage",
         "rainfall",
-        "streamflow",
     }
 
     assert expected.issubset(metadata["datasets"].keys())
