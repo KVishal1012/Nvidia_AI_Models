@@ -12,3 +12,6 @@ networkx
 requests
 python-dotenv
 pytest
+pystac
+pystac_client
+planetary_computer
